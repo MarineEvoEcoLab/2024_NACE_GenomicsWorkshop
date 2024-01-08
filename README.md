@@ -10,20 +10,18 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 
 # Agenda
 
-
-
 | Start | End|  Event | Speaker|
 |------|------|---|--------|
-| 13:00 | 13:15| Welcome and Introduction | Jon Puritz|
+| 13:00 | 13:10| Welcome and Introduction | Jon Puritz|
 | || Part 1: What can genomic data answer?||
-| 13:20 | 13:28| Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay| Amy Zyck |
-| 13:30 | 13:38| Genomic and phenotypic variation in wild and selectively bred oysters | Angel Carrasquillo|
-| 13:40 | 13:48| Using genomic tools to assess contributions mixing of wild and selected lines in LI Sound| Yuqing Chen |
-| 13:50 | 13:58| Accessible Genomics: why now is the time to start integrating genomics into industry and management| Jon Puritz |
-| 14:00 | 14:08| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
-| 14:10 | 14:15| Break||
+| 13:10 | 13:18| Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay| Amy Zyck |
+| 13:20 | 13:28| Genomic and phenotypic variation in wild and selectively bred oysters | Angel Carrasquillo|
+| 13:30 | 13:40| Using genomic tools to assess contributions mixing of wild and selected lines in LI Sound| Yuqing Chen |
+| 13:42 | 13:50| Accessible Genomics: why now is the time to start integrating genomics into industry and management| Jon Puritz |
+| 13:52 | 14:00| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
+| 14:00 | 14:10| Break||
 | || Part 2: Hands-on workshop with the Eastern Oyster SNP Breeding Array ||
-| 14:15 | 14:30| From DNA to SNP and what is a SNP anyway? | Jon Puritz |
+| 14:10 | 14:30| From DNA to SNP and what is a SNP anyway? | Jon Puritz |
 | 14:30 | 15:00| Introduction to R | Jon Puritz |
 | 15:00 | 15:30| Principal Component Analysis and Assignment testing | Jon Puritz |
 | 15:30 | 15:50| Calculating Genetic Diversity and Relatedness | Jon Puritz |
