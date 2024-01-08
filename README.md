@@ -16,7 +16,7 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 | || Part 1: What can genomic data answer?||
 | 13:10 | 13:18| Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay| Amy Zyck |
 | 13:20 | 13:28| Genomic and phenotypic variation in wild and selectively bred oysters | Angel Carrasquillo|
-| 13:30 | 13:40| Using genomic tools to assess contributions mixing of wild and selected lines in LI Sound| Yuqing Chen |
+| 13:30 | 13:40| Do farm oysters contribute to ecosystem services? Assessing interbreeding between aquaculture strains and native stocks| Yuqing Chen |
 | 13:42 | 13:50| Accessible Genomics: why now is the time to start integrating genomics into industry and management| Jon Puritz |
 | 13:52 | 14:00| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
 | 14:00 | 14:10| Break||
