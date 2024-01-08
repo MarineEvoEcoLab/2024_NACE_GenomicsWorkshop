@@ -23,8 +23,7 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 | 14:00 | 14:08| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
 | 14:10 | 14:15| Break||
 | || Part 2: Hands-on workshop with the Eastern Oyster SNP Breeding Array ||
-| 14:15 | 14:20| What is a SNP? | Jon Puritz |
-| 14:20 | 14:30| Getting data from CAT | Jon Puritz |
+| 14:15 | 14:30| From DNA to SNP and what is a SNP anyway? | Jon Puritz |
 | 14:30 | 15:00| Introduction to R | Jon Puritz |
 | 15:00 | 15:30| Principal Component Analysis and Assignment testing | Jon Puritz |
 | 15:30 | 15:50| Calculating Genetic Diversity and Relatedness | Jon Puritz |
