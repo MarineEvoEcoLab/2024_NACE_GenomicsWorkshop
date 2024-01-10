@@ -30,3 +30,5 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 # Registration and Support
 Register here: (https://www.northeastaquaculture.org/registration/) and sign up for the workshop here: (https://shellfish.wufoo.com/forms/nace-mas-24-workshopfield-trip-registration/) Support from RI Sea Grant is available to help cover registration costs and defer travel costs for those who are not already attending the conference.  Please email Jon Puritz (jpuritz@uri.edu) with a short, one-page summary of funding needs.  Amount of financial support will depend on the number of applicants and will be in the form of reimbursement. 
 
+
+
