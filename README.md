@@ -19,14 +19,13 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 | 13:10 | 13:18| Understanding Oyster Population Connectivity and Adaptation in Narragansett Bay| Amy Zyck |
 | 13:20 | 13:28| Genomic and phenotypic variation in wild and selectively bred oysters | Angel Carrasquillo|
 | 13:30 | 13:40| Do farm oysters contribute to ecosystem services? Assessing interbreeding between aquaculture strains and native stocks| Yuqing Chen |
-| 13:42 | 13:50| Accessible Genomics: why now is the time to start integrating genomics into industry and management| Jon Puritz |
-| 13:52 | 14:00| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
-| 14:00 | 14:10| Break||
+| 13:42 | 13:50| No oysters were harmed in the making of this: how to non-destructively sample oyster DNA | USDA-ARS |
+| 13:50 | 14:05| Break||
 | || Part 2: Hands-on workshop with the Eastern Oyster SNP Breeding Array ||
-| 14:10 | 14:30| From DNA to SNP and what is a SNP anyway? | Jon Puritz |
-| 14:30 | 15:00| Introduction to R | Jon Puritz |
-| 15:00 | 15:30| Calculating Genetic Diversity  | Jon Puritz |
-| 15:30 | 16:00| Principal Component Analysis and Discrimininant Analysis | Jon Puritz |
+| 14:05 | 14:20| From DNA to SNP and what is a SNP anyway? | Jon Puritz |
+| 14:20 | 14:40| Introduction to R | Jon Puritz |
+| 14:40 | 15:20| Calculating Genetic Diversity  | Jon Puritz |
+| 15:20 | 16:00| Principal Component Analysis and Discrimininant Analysis | Jon Puritz |
 
 
 # Registration and Support
