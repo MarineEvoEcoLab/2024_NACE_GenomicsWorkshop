@@ -24,8 +24,7 @@ Come learn about exciting new genomic tools for the eastern oyster that can be u
 | 14:10 | 14:30| From DNA to SNP and what is a SNP anyway? | Jon Puritz |
 | 14:30 | 15:00| Introduction to R | Jon Puritz |
 | 15:00 | 15:30| Calculating Genetic Diversity  | Jon Puritz |
-| 15:30 | 15:50| Principal Component Analysis and Assignment testing | Jon Puritz |
-| 15:50 | 16:00| Demo: Calculating the number of breeders | Jon Puritz |
+| 15:30 | 16:00| Principal Component Analysis and Discrimininant Analysis | Jon Puritz |
 
 
 # Registration and Support
