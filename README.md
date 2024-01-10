@@ -1,6 +1,8 @@
 # Oyster genomics for everyone: applications to conservation, management, and aquaculture
 Workshop held at the 2024 Northeast Aquaculture Conference & Exposition (NACE) and the 43rd Milford Aquaculture Seminar (MAS)
 
+**Room:** Bristol/Kent
+
 # Description
 Date: January 10, 2024 
 Time: 1:00 PM to 4:00 PM
